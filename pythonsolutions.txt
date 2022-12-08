@@ -1,2 +1,5 @@
 Q1: Question one
 Ans: 1
+
+Q2: Questions two
+Ans: 2
